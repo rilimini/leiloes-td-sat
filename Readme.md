@@ -1,0 +1,3 @@
+LeiloesTDSat
+Possuí o propósito de visualisar o histórico de vendas, dizendo quais produtos foram vendidos e quais ainda não foram além de dizer o valor dos produtos. Existem duas telas, a de cadastro e a de visualização, na tela de cadastro é possível ver duas caixas de texto que permitem a adição do nome e do preço de um produto que quando cadastrado automaticamente o status de "A Venda", também se encontra um botão que permite ir a tela de visualização que mostra uma tabela que mostra os produtos(id, nome, preço e status) e um botão com uma caixa de texto que permite com que seja alterado o status do produto, nesta tela também existe um botão que permite ir a tela de cadastro.
+Este projeto é feito na linguagem java para se comunicar com um banco de dados sql(mysql).
